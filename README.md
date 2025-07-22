@@ -1,1 +1,1 @@
-# COMP-1841---WebProgramming-1-RS
+# COMP-1841---Web-Programming-1-Coursework.
